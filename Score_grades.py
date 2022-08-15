@@ -1,7 +1,5 @@
 """
-A program to grade the results of students in their semester courses (geography, English, Mathematics)
-
-based on their score
+A program to grade the results of students in their semester coursesbased on their score
 
 100 - 80 = A
 79 - 60 = B
