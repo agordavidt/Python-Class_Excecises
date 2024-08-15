@@ -1,8 +1,8 @@
 """
-A store is doing a bonanza, who ever buys goods less than or equal to
-500 Naira will get 10% discount, anyone buying goods above 500 but less than
- N1000 gets a 15% discount, and goods of N1000 above has 20% discount.
- Write a program that prints the amount a buyer will pay for each purchase.
+A store is offering a promotional discount. Customers receive a 10% discount on purchases totaling 500 Naira or less,
+a 15% discount on purchases between 501 and 999 Naira, and a 20% discount on purchases of 1000 Naira or more. 
+Write a program that calculates and prints the final amount a customer will pay based on the total value of 
+their purchase.
 """
 
 price_goods = int(input("Enter the Price: "))
